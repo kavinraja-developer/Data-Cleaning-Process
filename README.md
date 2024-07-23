@@ -1,5 +1,4 @@
-# Exno:1
-Data Cleaning Process
+# Data Cleaning Process in Python
 
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
@@ -19,8 +18,3 @@ STEP 4: Save the Clean data to the file
 STEP 5: Remove outliers using IQR
 
 STEP 6: Use zscore of to remove outliers
-
-# Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
-# Result
-          <<include your Result here>>
